@@ -1,0 +1,33 @@
+{
+  "name": "teaboom-product-card",
+  "version": "1.0.0",
+  "description": "Страница товара «Ананасовый улун» — тестовое задание для Teaboom.ru",
+  "private": true,
+  "scripts": {
+    "build": "sass style.scss style.css --style=expanded --no-source-map",
+    "build:min": "sass style.scss style.css --style=compressed --no-source-map",
+    "watch": "sass --watch style.scss style.css"
+  },
+  "devDependencies": {
+    "sass": "^1.105.1"
+  },
+  "engines": {
+    "node": ">=16"
+  },
+  "main": "script.js",
+  "dependencies": {
+    "chokidar": "^5.0.0",
+    "detect-libc": "^2.1.2",
+    "immutable": "^5.1.9",
+    "is-extglob": "^2.1.1",
+    "is-glob": "^4.0.3",
+    "node-addon-api": "^7.1.1",
+    "picomatch": "^4.0.7",
+    "readdirp": "^5.1.1",
+    "source-map-js": "^1.2.2"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
