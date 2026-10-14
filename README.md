@@ -4,7 +4,7 @@
 
 ## 🔗 Демо
 
-- **GitHub Pages:** `https://github.com/AkulinIvan/<repo>/`
+- **GitHub Pages:** `https://github.com/AkulinIvan/Teaboom/`
 - **Локально:** откройте `index.html` в браузере — сборка не требуется.
 
 ## 📦 Стек
